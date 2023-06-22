@@ -15,4 +15,5 @@ individuals.
 
 ◉ The second level utilizes Optical Character Recognition (OCR) to extract the PAN card number from the PAN
 card and match it with a database.
+
 Technologies used: Python, Deep Learning Model CNN and OCR method.
