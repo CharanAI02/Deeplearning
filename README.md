@@ -9,8 +9,10 @@ Online KYC procedures involve verifying individuals' identities remotely through
 The inclusion of PAN Card tampering detection in online KYC procedures is crucial to ensure the authenticity and reliability of the verification process. 
 
 ◉ This project proposes a two-level authentication system for identity verification.
+
 ◉ The first level involves using Convolutional Neural Networks (CNN) to compare features and identify
 individuals.
+
 ◉ The second level utilizes Optical Character Recognition (OCR) to extract the PAN card number from the PAN
 card and match it with a database.
 Technologies used: Python, Deep Learning Model CNN and OCR method.
